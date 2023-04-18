@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+.header{
+    background-color: #84b6f4;
+    padding: 20px;
+    text-align: center;
+}
+.row {
+    display: -webkit-flex;
+    display: flex;
+  }
+  .column{
+    padding: 150px;
+    height: 300px;
+  }
+ .column2{
+    width: 700px;
+ }
+ .footer {
+    background-color: #fdcae1;
+    padding: 50px;
+   text-align: center;
+  }
+  
