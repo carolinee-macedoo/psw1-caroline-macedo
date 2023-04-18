@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+.header{
+    background-color: #84b6f4;
+    padding: 20px;
+    text-align: center;
+}
+
+.column{
+    float: left;
+     width: 33.33%;
+     padding: 30px;
+     height: 500px;
+     
+}
+.row:after{
+    content: "";
+    display: table;
+   
+}
+.footer {
+    background-color: #fdcae1;
+    padding: 50px;
+   text-align: center;
+  }
+  
